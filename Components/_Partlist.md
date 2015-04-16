@@ -9,13 +9,12 @@
 
 
 #Battery: http://www.adafruit.com/products/1578 
-****************************************************
-*  Charger: http://www.adafruit.com/products/1904  *
-*                                                  *
-*  5v Boost: http://www.adafruit.com/products/1903 *
-*                                                  *
-*           DO NOT USE. THESE ARE OLD              *
-****************************************************
+
+Charger: http://www.adafruit.com/products/1904                                                    
+5v Boost: http://www.adafruit.com/products/1903 
+                                    # ^            
+          #DO NOT USE. THESE ARE OLD  |            
+
 
 #Charger/Boost Combo!: http://www.adafruit.com/products/1944
 
