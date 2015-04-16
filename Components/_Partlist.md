@@ -2,21 +2,13 @@
 #IndieWatch Partlist (~43x~43x~13mm)
 
 
-#Screen: http://www.adafruit.com/products/1431
-
-#Probably: http://www.adafruit.com/products/1393
-#(PCB Dimensions: 39.96mm / 1.57" x 39.6mm / 1.55" x 4.84mm / 0.19")
-
-
-#Battery: http://www.adafruit.com/products/1578 
-
-Charger: http://www.adafruit.com/products/1904                                                    
-5v Boost: http://www.adafruit.com/products/1903 
-                                    # ^            
-          #DO NOT USE. THESE ARE OLD  |            
+Screen: http://www.adafruit.com/products/1393
+(Dat screen tho 1.03mAh draw!!!!)
+(PCB Dimensions: 39.96mm / 1.57" x 39.6mm / 1.55" x 4.84mm / 0.19")
 
 
-#Charger/Boost Combo!: http://www.adafruit.com/products/1944
+Battery: http://www.adafruit.com/products/1578 
+Charger/Boost Combo!: http://www.adafruit.com/products/1944
 
 Arduino: http://www.adafruit.com/products/1086
 
